@@ -1,0 +1,12 @@
+[?1/?10/?2017 2:28 PM] Haque, Jekib: 
+1) Run the process 5 times(fast mode) 
+2) as well as from control room
+3) validate invalid login
+5) check by putting missing value in new product
+7) put invalid data 
+9) use block whenever necessary
+10) use exception in main page
+11) use wait whenever a new popup window or closing a window 
+8) excel path not existed
+6) blank excel
+4) input invalid option number 

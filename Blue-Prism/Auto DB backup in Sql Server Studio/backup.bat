@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft SQL Server\110\Tools\Binn"\SQLCMD.exe -S DIN52004036\SQLEXPRESS -U sa -P Capgemini@123 -i "D:\DB auto backup\SQLExpressBackups.sql"

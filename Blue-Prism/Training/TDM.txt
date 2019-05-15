@@ -1,0 +1,12 @@
+test data management process:
+ 
+This process intend to download data from PROD environment to QA environment for the provided policies which is mainframe based automation and later from QA to Heart environment which is a Web based automation. Also involve excel Automation to read requeste policies as input and Create output status of policies processed.
+ 
+Roles & Responsibilities:
+ 
+1          Requirement gathering and analysis.
+2          Design the Business Objects and Processes as per PDD, ODI
+3          Worked with Mainframe Automation, Windows Automation, MS Excel VBO
+4          Coordinate with process owners and business to understand the as-is process and design the automation process flow
+5       Tested in UAT & Deployed in production
+ 

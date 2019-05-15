@@ -1,0 +1,5 @@
+step 1 - execute sql command to get normal DB backup for testing
+
+step 2 - execute the query through  sql command prompt using bat file 
+
+step 3 - schedule the bat file in windows task scheduler  
